@@ -22,27 +22,22 @@ I also made it work as a **popup** inside Chrome using the `manifest.json` and a
 
 ## 📷 Screenshots
 
-_Add your screenshot here (for example: popup view with different difficulties)_
+![gameplay image 1](https://github.com/user-attachments/assets/f060b6e8-668a-44da-a555-a5ff8d33616e)
 
-![screenshot](./screenshots/game-view.png)
+![gameplay image 2](https://github.com/user-attachments/assets/74bc203b-6e98-415f-a3c5-8f93c302953b)
+
+![gameplay image 3](https://github.com/user-attachments/assets/a3a8919f-185a-4bf8-862d-d0152bbe2230)
+
+![gameplay image 4](https://github.com/user-attachments/assets/d5791925-cbe1-4ad4-a4de-080d8da372bd)
+
+![gameplay image 5](https://github.com/user-attachments/assets/1928da70-36b4-4cbd-98fa-6f021a306d98)
+
+
 
 ## 🧩 Install Extension
 
 ➡️ [Install from Chrome Web Store](https://chrome.google.com/webstore/detail/YOUR-EXTENSION-ID)  
 _(I'll update this link once it's published.)_
-
-## 📁 Folder structure
-
-```text
-├── manifest.json
-├── index.html
-├── style.css
-├── script.js
-├── smile.png
-├── dead.png
-├── surprised.png
-└── icons/
-    └── icon48.png
 
 
 🚀 How to run locally
