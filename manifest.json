@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Minesweeper by k-shiman",
     "version": "1.0",
-    "description": "Classic Minesweeper Game. UI emojis by Illosalz.",
+    "description": "Play the classic Minesweeper puzzle game directly in your browser popup. Choose difficulty, mark flags, and avoid mines!",
     "action": {
       "default_popup": "index.html",
       "default_icon": {
