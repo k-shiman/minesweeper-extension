@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Minesweeper by k-shiman</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div id="message" style="margin-top:10px; font-weight:bold;"></div>
+  <div id="ui">
+    <button class="button" id="easyBtn">Easy</button>
+    <button class="button" id="mediumBtn">Medium</button>
+    <button class="button" id="hardBtn">Hard</button>
+    <img src="smile.png" id="smiley" title="Restart">
+    <div>
+      <span>Bombs: <span id="bombCount">0</span></span>
+      <span style="margin-left: 20px;">Time: <span id="timer">0</span>s</span>
+    </div>
+  </div>
+  <div id="board"></div>
+  <script src="script.js"></script>
+</body>
+</html>

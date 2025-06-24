@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Minesweeper by k-shiman",
+    "version": "1.0",
+    "description": "Classic Minesweeper Game. UI emojis by Illosalz.",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": {
+        "48": "smile.png"
+      }
+    },
+    "icons": {
+      "48": "smile.png"
+    },
+    "web_accessible_resources": [
+      {
+        "resources": ["smile.png"],
+        "matches": ["<all_urls>"]
+      }
+    ]
+  }
+  
