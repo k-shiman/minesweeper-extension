@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Minesweeper game",
     "version": "1.0",
-    "description": "Play the classic Minesweeper puzzle game directly in your browser popup. Choose difficulty, mark flags, and avoid mines!",
+    "description": "Play the classic Minesweeper puzzle game!",
     "action": {
       "default_popup": "index.html",
       "default_icon": {
