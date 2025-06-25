@@ -36,8 +36,8 @@ I also made it work as a **popup** inside Chrome using the `manifest.json` and a
 
 ## 🧩 Install Extension
 
-➡️ [Install from Chrome Web Store](https://chrome.google.com/webstore/detail/YOUR-EXTENSION-ID)  
-_(I'll update this link once it's published.)_
+➡️ [Install from Chrome Web Store](https://chromewebstore.google.com/detail/bjgcfkghakbcocibghimeljjdhlepopj?utm_source=item-share-cb)  
+
 
 
 🚀 How to run locally
